@@ -1,0 +1,1 @@
+newpass_entry.get()
